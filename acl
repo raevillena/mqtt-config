@@ -1,0 +1,6 @@
+user rae
+topic readwrite #
+topic read $SYS/#
+
+user test
+topic readwrite test/#
